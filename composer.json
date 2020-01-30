@@ -1,0 +1,23 @@
+{
+  "name": "ollieread/phishbot",
+  "description": "A discord bot, written in PHP",
+  "keywords": [
+    "discord",
+    "php",
+    "bot"
+  ],
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ollie Read",
+      "email": "me@ollieread.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Phishbot\\": "src/"
+    }
+  },
+  "require": {}
+}
